@@ -72,3 +72,9 @@
     @apply bg-background text-foreground;
   }
 }
+.glow {
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 200px 130px #f0f;
+}
