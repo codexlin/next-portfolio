@@ -19,14 +19,14 @@ export default function Projects() {
     {
       title: "Vue-Ace-Admin",
       tech: [SiVuedotjs, SiAxios, SiAntdesign, SiTypescript],
-      link: "http://localhost:3000",
+      link: "http://admin.look4u.top",
       cover: "/bg.png",
       background: "bg-indigo-500",
     },
     {
       title: "E-Learning",
       tech: [SiNextdotjs, SiReactquery, SiTailwindcss],
-      link: "http://localhost:3000",
+      link: "http://admin.look4u.top",
       cover: "/bg.png",
       background: "bg-green-500",
     },
