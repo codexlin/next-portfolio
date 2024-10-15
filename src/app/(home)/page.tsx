@@ -9,7 +9,7 @@ import Skills from "./components/Skills"
 export default function Page() {
   return (
     <div className="min-h-screen overflow-hidden bg-black">
-      <div className="dark:bg-grid-white/[0.03] bg-grid-black/[0.2] bg-white dark:bg-black">
+      <div className="bg-white bg-grid-black/[0.2] dark:bg-black dark:bg-grid-white/[0.03]">
         <div className="relative mx-auto max-w-6xl p-5">
           <Navbar></Navbar>
           <HeroSection></HeroSection>

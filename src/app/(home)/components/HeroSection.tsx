@@ -7,7 +7,7 @@ import Title from "./Title"
 
 export default function HeroSection() {
   return (
-    <div className="animate-move-up flex min-h-[60vh] flex-col-reverse items-center justify-between gap-14 lg:flex-row lg:gap-0">
+    <div className="flex min-h-[60vh] animate-move-up flex-col-reverse items-center justify-between gap-14 lg:flex-row lg:gap-0">
       <div className="space-y-10 text-center lg:text-left">
         <h1 className="text-4xl font-bold lg:text-7xl">
           Nice to meet u!😊

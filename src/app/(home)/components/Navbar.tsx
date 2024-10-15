@@ -24,7 +24,7 @@ export default function Navbar({ className }: { className?: string }) {
     },
   ]
   return (
-    <nav className={cn(className, "animate-move-down flex items-center justify-between py-10")}>
+    <nav className={cn(className, "flex animate-move-down items-center justify-between py-10")}>
       <h1 className="-rotate-2 text-2xl font-bold underline decoration-green-500 underline-offset-8">
         CodexLin 👨‍💻
       </h1>
