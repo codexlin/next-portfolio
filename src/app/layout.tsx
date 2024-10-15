@@ -12,23 +12,23 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   metadataBase: new URL("https://codexlin.com"),
 
-  title: "codexlin",
+  title: "CodexLin",
   authors: {
-    name: "codexlin",
+    name: "CodexLin",
   },
 
   description:
-    "Cast your vote now and see live updates on the poll results, powered by the real-time capabilities of Supabase database integration in our web app",
+    "I'm a Fullstack developer passionate about building a modern web application that users love.",
   openGraph: {
     title: "Daily Vote",
     description:
-      "Cast your vote now and see live updates on the poll results, powered by the real-time capabilities of Supabase database integration in our web app.",
+      "I'm a Fullstack developer passionate about building a modern web application that users love.",
     url: "https://codexlin.com",
-    siteName: "codexlin",
+    siteName: "CodexLin",
     images: "/og.png",
     type: "website",
   },
-  keywords: ["daily web coding", "codexlin", "dailywebcoding"],
+  keywords: ["codexlin", "CodexLin", "dailywebcoding"],
 }
 
 export default function RootLayout({
